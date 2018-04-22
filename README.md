@@ -1,7 +1,7 @@
-===============================
+
 PYthon Gaussian WavePacket Dynamics
 PYGWPD
-===============================
+=
 
 April 2018
 
